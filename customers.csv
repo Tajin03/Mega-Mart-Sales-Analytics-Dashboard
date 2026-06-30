@@ -1,0 +1,201 @@
+﻿CustomerID,FirstName,LastName,Gender,BirthDate,City,JoinDate
+C001,Michael,Davis,M,11-09-96,Osborneport,25-09-22
+C002,Michael,Miller,M,18-08-59,New Gabrielleport,03-11-20
+C003,Carol,Hays,F,19-04-05,Port Allen,12-02-24
+C004,Joseph,Ward,M,16-06-92,East Edgarborough,09-09-24
+C005,Jamie,Salinas,M,18-06-92,Port Kimberly,24-02-22
+C006,Danny,Moore,M,03-10-86,Costaberg,09-07-22
+C007,Erin,Walker,M,11-01-85,West Jasmine,13-10-21
+C008,Isaiah,Williams,M,13-11-60,New Michaelland,04-03-25
+C009,Richard,Pacheco,F,15-08-04,West Lisaville,17-04-25
+C010,Catherine,Rice,M,12-12-76,West Carol,23-07-25
+C011,Haley,Williams,M,03-03-97,Leburgh,12-05-23
+C012,Dale,Perry,M,08-12-89,Lake Dawn,16-07-21
+C013,Robert,Anderson,M,28-01-55,Jillianhaven,22-03-23
+C014,Brittany,Green,M,25-06-74,East Samantha,09-11-21
+C015,Matthew,Molina,M,12-12-93,Quinnville,27-11-22
+C016,Miguel,Johnson,M,27-04-76,Murrayborough,21-02-22
+C017,Vanessa,Anderson,F,11-03-82,Peterside,25-09-24
+C018,Breanna,Davis,M,19-08-94,East William,12-11-24
+C019,John,Smith,F,16-05-98,Stephaniechester,17-05-23
+C020,Ryan,Cole,F,26-06-82,Travisstad,19-04-24
+C021,Debbie,Martin,M,17-11-93,Meganmouth,22-01-22
+C022,Megan,Velasquez,M,16-11-55,East James,02-10-20
+C023,Mark,Martinez,F,09-05-72,New Christophermouth,19-10-20
+C024,Molly,Murray,F,25-11-61,North April,20-04-23
+C025,Cheryl,Gilbert,F,12-03-71,Bradyshire,14-01-22
+C026,Justin,Macdonald,M,04-01-04,Shepherdburgh,03-09-24
+C027,Jacqueline,Martin,M,05-02-59,Robertmouth,30-08-23
+C028,John,Carr,F,10-02-60,New David,16-12-22
+C029,Tyler,Levine,M,20-05-78,West Charles,30-08-21
+C030,Lacey,Hall,M,10-06-02,Thomashaven,27-08-22
+C031,Ashley,Gibson,F,14-03-03,East Carrieberg,26-08-25
+C032,Valerie,Macdonald,M,09-11-92,East Shelby,12-01-21
+C033,Jenny,Beck,F,27-07-78,Lake Cody,17-03-25
+C034,Kari,Miller,F,19-12-64,East Mary,13-01-25
+C035,Kimberly,King,F,19-04-91,North George,22-03-23
+C036,Michael,Cervantes,M,04-11-91,Ashleyview,30-09-20
+C037,Miranda,Nelson,F,30-08-82,West Melissahaven,31-01-24
+C038,Tracey,Davis,M,19-04-74,Wilsonbury,10-05-21
+C039,Nancy,Savage,F,02-11-96,Port Sandra,17-10-22
+C040,Scott,Powell,M,06-11-74,Port Miguel,12-07-22
+C041,Melissa,Rodgers,F,03-07-80,North Sharontown,24-01-23
+C042,Anna,Andrews,F,08-02-00,North Teresashire,09-11-21
+C043,Kenneth,Allen,M,14-09-88,North Jonathonhaven,14-10-23
+C044,Parker,Sparks,M,14-02-61,Bryanside,27-12-24
+C045,Kelly,Shaw,M,28-12-75,Zacharyfort,09-10-23
+C046,Dennis,Poole,M,21-01-64,New Jontown,25-06-22
+C047,Mary,Decker,F,03-07-06,Port Jessica,25-02-25
+C048,Alexis,Crane,M,30-12-04,Newtonborough,10-04-22
+C049,Antonio,Hamilton,M,03-01-97,Chambersview,23-06-22
+C050,Kelly,Mcmillan,M,20-06-68,Erinland,25-08-22
+C051,Madison,Sellers,F,19-12-04,Boyerstad,25-02-24
+C052,Billy,Hernandez,F,11-09-91,Walkerfurt,25-04-24
+C053,Felicia,Morgan,F,20-04-98,Lake Michaelshire,07-04-24
+C054,Crystal,Johnson,F,10-11-02,New Kathleentown,19-03-21
+C055,Deborah,Moody,M,09-07-76,Andersonville,05-02-21
+C056,Carl,Wyatt,F,23-09-04,North Tracey,19-06-21
+C057,Julie,Gibson,F,26-09-98,Williamsville,26-03-23
+C058,Lawrence,Stewart,M,22-07-05,West Tinatown,10-11-20
+C059,Scott,Wyatt,F,11-05-63,New Meagan,27-09-24
+C060,Anthony,Conway,M,09-10-97,Carlyberg,15-06-25
+C061,Heather,Russell,M,21-10-68,North Michellemouth,01-02-21
+C062,Susan,Salinas,M,21-06-00,Turnerberg,23-09-21
+C063,Michael,Johnson,M,07-01-73,West Amandashire,29-05-23
+C064,Amanda,Hoover,F,01-09-73,Brittanyburgh,26-09-24
+C065,Scott,Duke,F,10-12-69,Williamhaven,21-01-24
+C066,Jason,Jenkins,F,14-09-85,New Randychester,21-12-20
+C067,Daniel,Maldonado,M,07-09-73,Davisfurt,11-03-21
+C068,Alexandra,Montoya,F,09-06-81,New Julia,13-06-24
+C069,Gabriel,Daugherty,M,14-10-65,New Reginald,11-01-23
+C070,Eric,Bryan,M,24-10-71,Taylorhaven,04-03-21
+C071,Denise,Gutierrez,M,18-06-62,New Manuelville,24-05-21
+C072,Eric,Watkins,F,06-06-95,Melissashire,02-07-22
+C073,Carl,Armstrong,F,04-12-64,Port Angelabury,09-02-22
+C074,Jesus,Singh,F,31-05-59,Port Michaelstad,09-02-23
+C075,Seth,Moore,M,17-09-54,New John,12-05-21
+C076,Phyllis,Durham,M,14-12-05,Nancyside,07-05-22
+C077,Matthew,Juarez,F,24-12-02,North Meagan,21-10-22
+C078,Jeanne,Young,M,25-09-88,Craigport,14-01-25
+C079,Donald,Marsh,F,15-06-79,North Bradleyfurt,06-07-24
+C080,Grace,Garcia,F,04-11-03,Markberg,02-01-23
+C081,Sarah,Reynolds,F,20-07-88,South Christinabury,22-09-22
+C082,Amy,Haley,M,11-05-03,Vasquezmouth,29-06-24
+C083,Jeremy,Robles,F,29-03-81,West Josephport,08-02-22
+C084,Amanda,Lee,M,19-03-72,Meyersstad,04-09-24
+C085,Juan,Ramirez,M,23-03-79,New Michaelview,11-10-23
+C086,Lawrence,Hunter,F,26-09-75,Port Stephanie,26-07-23
+C087,Laurie,Mason,F,22-06-75,Berrymouth,02-07-25
+C088,Brenda,Costa,F,11-10-97,North Christian,12-09-22
+C089,William,Warner,F,12-07-69,Geoffreystad,25-11-22
+C090,Carrie,Peterson,M,18-08-75,Fergusonview,16-01-22
+C091,Brian,Fowler,M,04-02-63,Port Williamhaven,23-08-21
+C092,Lindsey,Holder,F,28-11-01,Mendozaland,17-12-23
+C093,Stanley,Brown,M,14-04-78,Baldwinstad,25-02-22
+C094,Kimberly,Stokes,M,18-10-62,Seanland,07-08-25
+C095,Kevin,Snyder,M,20-08-82,Seanville,19-12-20
+C096,Eric,King,M,06-01-89,Lake Amanda,27-10-21
+C097,Evelyn,Gray,M,14-08-94,Wardfort,14-06-25
+C098,Lisa,Vega,F,09-01-05,East Colinmouth,22-05-23
+C099,Kimberly,Jones,M,22-07-64,Hansonhaven,17-01-21
+C100,Sean,Hart,F,28-09-54,North Jason,06-11-24
+C101,William,Pope,F,29-05-56,North Gary,08-09-24
+C102,Carolyn,Perez,F,20-06-96,South Briantown,12-11-23
+C103,David,Burns,F,26-10-64,Joyceside,04-06-21
+C104,Brenda,Dean,M,20-03-65,West Ann,17-01-24
+C105,Kenneth,Berg,M,29-12-69,Morrisborough,06-07-23
+C106,Kevin,Flores,F,23-04-87,Lake Ricardo,06-02-25
+C107,Victoria,Hansen,F,08-10-95,Lake Dale,17-07-23
+C108,Samantha,Hill,M,21-11-60,Georgetown,08-06-22
+C109,Austin,Hogan,F,03-03-06,Port Fernandohaven,29-07-21
+C110,Travis,Peters,F,05-01-66,South Ianhaven,31-12-22
+C111,Dylan,Booker,M,13-07-93,Justintown,12-01-22
+C112,Jeffrey,Smith,F,29-12-83,Aaronmouth,21-03-23
+C113,Heidi,Wilson,M,23-05-77,Ramosbury,31-12-22
+C114,Miranda,Rodriguez,F,04-07-80,Adkinsport,23-08-25
+C115,Jose,Smith,M,25-02-60,Smithburgh,12-11-23
+C116,Jamie,Webb,M,26-09-55,Zacharyberg,31-07-25
+C117,Timothy,Beck,F,07-09-87,Lauraborough,18-12-22
+C118,Gina,Bradford,M,27-08-75,Port William,12-07-25
+C119,Jason,Lloyd,M,31-07-91,West Ralph,31-03-25
+C120,Curtis,Faulkner,F,10-01-64,Annaborough,18-10-20
+C121,John,Bell,M,28-02-67,Sarahhaven,11-10-21
+C122,Amy,Smith,M,02-10-61,Simonstad,24-06-24
+C123,Peter,Edwards,F,06-11-89,Cliffordbury,06-06-22
+C124,Chad,Roberts,F,07-06-62,North Michelle,10-02-21
+C125,Kimberly,Parker,M,03-04-90,Lake Christopher,14-03-21
+C126,Monique,Johnson,M,04-04-80,West Paulfurt,28-12-24
+C127,John,Allen,F,17-11-82,Kimland,22-01-21
+C128,Robert,Collins,F,06-08-76,Anthonystad,09-02-25
+C129,Gary,Taylor,M,08-10-58,New Michael,10-12-24
+C130,Aaron,Bailey,M,03-02-82,Marcchester,15-07-24
+C131,Denise,Jackson,M,18-10-96,Williamsport,20-12-22
+C132,Jared,Ochoa,M,24-12-58,Cisnerosville,19-04-23
+C133,Yvette,Roth,M,14-04-62,East Melissashire,23-06-25
+C134,Emily,Hart,F,29-01-85,Angelaland,22-05-25
+C135,Mario,Cuevas,M,07-03-86,North Charlesville,03-09-23
+C136,Amanda,Garcia,M,27-06-07,Watsonview,22-04-23
+C137,Gary,Lopez,M,05-08-84,Amandachester,09-05-24
+C138,Breanna,Moore,F,28-09-61,Melissaberg,10-05-21
+C139,Alexander,Mcfarland,M,21-03-60,Whiteside,16-09-21
+C140,Stacy,Williams,F,12-06-73,Port Gail,28-08-24
+C141,Adam,Lucas,F,06-08-78,Allisonmouth,07-01-24
+C142,Suzanne,Fox,M,25-07-05,Joelborough,27-12-20
+C143,Cynthia,Carlson,M,03-06-61,South Jameschester,10-06-23
+C144,Betty,Johnson,F,02-09-63,North Lisa,03-03-21
+C145,Paige,Osborne,F,07-11-59,Carlsonborough,19-08-21
+C146,John,Johnson,F,26-03-97,North Jamesport,31-08-22
+C147,Crystal,Garrison,F,03-02-67,New Jason,20-05-23
+C148,John,Foster,F,08-07-05,Charlesmouth,05-11-24
+C149,Melissa,Torres,M,24-01-78,North Kathryn,02-05-25
+C150,Francis,Hernandez,M,17-06-71,Juliefurt,07-10-22
+C151,Dawn,Fletcher,M,30-08-06,South Audrey,26-01-22
+C152,Brittany,Green,M,17-06-87,Port Jeffreyside,06-03-21
+C153,Nancy,Gordon,F,07-04-88,Port Alex,05-02-23
+C154,Lisa,Martinez,M,02-09-71,East Codyton,21-11-23
+C155,Jill,Mcconnell,M,20-09-65,Kevinshire,23-03-24
+C156,George,Young,M,28-11-56,Lisatown,04-01-24
+C157,Connie,Terry,M,16-12-65,Port Patriciaburgh,22-12-22
+C158,Crystal,Aguirre,M,24-07-81,Dylanmouth,15-09-23
+C159,Thomas,Chung,M,14-10-90,Joshuamouth,26-01-22
+C160,Meagan,Macdonald,M,10-09-91,Port Jacob,27-10-21
+C161,Michael,Perez,M,19-01-63,Shannontown,31-01-23
+C162,Jill,Roach,M,30-08-00,Ellisside,03-06-22
+C163,Erin,Rogers,F,08-10-85,Lake Lindsay,20-08-25
+C164,Linda,Vasquez,M,28-07-68,North Rodney,21-12-20
+C165,Tanya,Mueller,M,26-12-72,West Tanner,05-12-23
+C166,Meagan,Ali,F,13-05-01,South Markbury,10-07-23
+C167,Kimberly,Lin,F,06-12-89,Wilsonland,28-05-22
+C168,Richard,Jones,M,30-07-69,Lake Steventown,01-10-22
+C169,Travis,Watson,M,15-06-67,Christopherburgh,23-12-21
+C170,Amber,Graham,F,05-05-84,Lake Melissaborough,20-08-25
+C171,Christina,Dominguez,M,15-03-93,Robertsborough,28-07-25
+C172,Michelle,Smith,F,14-03-77,New Fred,21-06-25
+C173,Lisa,Ruiz,F,28-08-58,South Marcusberg,22-08-25
+C174,Scott,Howell,M,07-07-05,South Jennifer,28-08-25
+C175,Stacey,Thompson,M,07-01-98,Davidtown,25-02-21
+C176,Peter,Garcia,M,07-10-79,West Amymouth,22-07-21
+C177,Anthony,Gould,F,05-01-85,South James,23-01-22
+C178,Mark,Mcdonald,F,05-12-60,East Paulburgh,22-06-24
+C179,Dennis,Wallace,F,14-02-85,Bennettburgh,19-08-25
+C180,Nichole,Calhoun,F,15-12-59,West Dakotaside,19-10-22
+C181,Brittany,Oneal,F,28-11-72,Port Bryce,12-12-24
+C182,Meghan,Wright,M,25-07-04,East Rodney,16-04-21
+C183,Mary,Dawson,M,19-11-90,New Tiffanyberg,27-08-21
+C184,Daniel,Mcintyre,M,13-04-03,West Katrina,19-04-21
+C185,Joe,Vincent,F,04-07-75,North Chaseborough,06-10-24
+C186,Vicki,Guzman,F,05-05-60,West Wandaland,07-02-24
+C187,Cynthia,Cherry,M,14-01-89,Gomeztown,01-11-23
+C188,Ryan,Flores,M,23-11-60,East Danielleshire,19-05-23
+C189,Steve,Flynn,M,07-08-66,East Walter,05-03-21
+C190,Daniel,Lawson,M,19-08-67,Conwayside,10-04-23
+C191,Karen,Quinn,F,14-07-58,Kristinemouth,11-06-22
+C192,James,Wilson,M,28-07-06,Franklinview,26-09-23
+C193,Donald,Meza,F,06-11-69,North Kelly,08-12-20
+C194,Ann,West,M,02-09-00,Craigshire,05-08-22
+C195,James,Mitchell,F,23-08-76,East Raymond,19-06-25
+C196,James,Noble,F,24-04-64,Woodbury,19-02-25
+C197,Matthew,Dixon,M,23-09-57,Lake Emily,18-11-20
+C198,Jessica,Mullins,M,23-01-86,Jessicaside,10-12-22
+C199,Juan,Johnson,F,18-05-70,South Scottton,28-07-21
+C200,Ronald,Haley,M,24-12-01,Jenniferbury,24-06-25
